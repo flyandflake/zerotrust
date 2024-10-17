@@ -30,6 +30,8 @@ http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
+#EXTINF:-1,Дом кино премиум HD
+http://46.36.13.190:81/udp/239.255.0.162:1234
 #EXTGRP:📽️ Фильмовые
 http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="1683" tvg-logo="http://epg.it999.ru/img/1683.png",Россия 24
