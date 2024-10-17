@@ -1,18 +1,26 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 tvg-id="146" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
-#EXTBG: #333333
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="711" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
-#EXTBG: #c0392b
-http://iptv.ltk-lg.su:1234/3007
-#EXTINF:-1 tvg-id="162" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png",Пятый канал
-https://us.justv.org:8080/hls/5kanal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDI6NDk6MjkgUE0maGFzaF92YWx1ZT1hTDdqNnVtVUlZb0MyZU9YaDBTUkZBPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
+#EXTINF:-1 ,НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="1003" tvg-logo="http://epg.it999.ru/img/1003.png",Пятница!
-http://flu.ttk.mx:9090/Pyatnica/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="79" tvg-logo="http://epg.it999.ru/img2/79.png",СТС
